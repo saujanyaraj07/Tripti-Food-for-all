@@ -71,7 +71,7 @@ class FirstScreen extends StatelessWidget {
                     Navigator.pushNamed(context, "loginScreen");
                   }),
                   SizedBox(height: 8.0),
-                  Button("Sign In", Colors.yellow, Colors.black, voidAction),
+                  Button("Sign up", Colors.yellow, Colors.black, voidAction),
                 ],
               ),
             ),
