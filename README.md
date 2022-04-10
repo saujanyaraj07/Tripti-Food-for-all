@@ -50,3 +50,4 @@ Tripti app provides Real-Time Food availability for NGOs, Food quality statistic
 # How we built it?
 **Frontend:** Flutter <br>
 **Backend:** Currently using Firebase which is a Serverless Backend but in future will use Nodejs, MongoDB, PostgreSQL and AWS Cloud services.
+
