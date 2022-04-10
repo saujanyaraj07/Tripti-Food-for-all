@@ -5,7 +5,8 @@
 # <p align="center"> TRIPTI-Food for All  </p>
   
   
-# Demo Link: 
+# Demo Link: https://youtu.be/G79awNTrCNM
+
 # Target Theme/Domain: Open Innovation
 
 # Problem Statement
